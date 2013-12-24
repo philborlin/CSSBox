@@ -30,7 +30,7 @@ to build the project.
 
 Required Libraries
 ------------------
-CSSBox relies on the jStyleParser open source CSS parser
+CSSBox relies on the [jStyleParser](https://github.com/philborlin/jStyleParser) open source CSS parser
 
 In the demos contained in the org.fit.cssbox.demo package, the
 [NekoHTML parser](http://nekohtml.sourceforge.net/) is used for creating the DOM tree.
